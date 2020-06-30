@@ -6,4 +6,4 @@ The objective of the project is to predict the weight of newborns in the US. The
 
 It consists of 6 steps: 1. Explore and visualize the dataset in order to pick the most important features 2. Create a sample dataset, that is representative of the whole dataset, so that a model can be locally developed 3. Developing a model using Tensorflow’s high level API, tf.estimator, in and set a prototype in place. 4. Create a full-sized training and evaluation set using Dataflow, so that the pre-processing can be applied during prediction as well. 5. Train the model. 6. Deploy the model. 
 
-This project was part of the online course “End-to-End Machine Learning with TensorFlow on GCP” in Coursera.
+This project was conducted under the guidance of the online course “End-to-End Machine Learning with TensorFlow on GCP” in Coursera, and part of the code was provided there. 
